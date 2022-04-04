@@ -3,5 +3,6 @@ import java.util.Scanner;
 public class Store {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        System.out.println("Enter items you need from the above");
     }
 }
